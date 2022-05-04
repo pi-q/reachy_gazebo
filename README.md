@@ -1,6 +1,6 @@
 # Base package for Gazebo simulation of Reachy (ROS2 foxy)
 
-## Dependancies
+## Dependencies
 
 ### ROS2 packages
 * [reachy_description](https://github.com/pollen-robotics/reachy_description): branch 'with-gazebo-conf'
